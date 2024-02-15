@@ -1,16 +1,14 @@
-### Hi there 👋
+## 🤙 Joseph Riter -- Professional Web Developer 🤙
+--- React, TypeScript, Ant Design --- 
 
-<!--
-**TheGetitGuy/thegetitguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📈 Delivering Industry grade, business facing tools to clients since 2022. 
 
-Here are some ideas to get you started:
+🌎 Embracing the remote work lifestyle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏙️ Located in the Ohio Valley, near the greater Pittsburgh area.
+
+
+|♥️ Loves Arduino and IOT development |🎮 Prototyping games | 🖌️ Lifelong Artist |
+|:------:|:------:|:----:|
+|[M5 stack](https://github.com/micropython/micropython)| [Godot 4](https://github.com/godotengine/godot)| [Krita](https://github.com/KDE/krita) |
+|[MicroPython](https://github.com/micropython/micropython)| [Pixel Pigeon](https://github.com/evannorton/Pixel-Pigeon) | [Aseprite](https://github.com/aseprite/aseprite)| 
