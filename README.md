@@ -10,5 +10,5 @@
 
 |♥️ Loves Arduino and IOT development |🎮 Prototyping games | 🖌️ Lifelong Artist |
 |:------:|:------:|:----:|
-|[M5 stack](https://github.com/micropython/micropython)| [Godot 4](https://github.com/godotengine/godot)| [Krita](https://github.com/KDE/krita) |
+|[M5 Stack](https://github.com/m5stack/M5Stack)| [Godot 4](https://github.com/godotengine/godot)| [Krita](https://github.com/KDE/krita) |
 |[MicroPython](https://github.com/micropython/micropython)| [Pixel Pigeon](https://github.com/evannorton/Pixel-Pigeon) | [Aseprite](https://github.com/aseprite/aseprite)| 
